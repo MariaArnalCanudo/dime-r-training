@@ -831,7 +831,17 @@ m1[1,]
 m1[,2]
 
 ```
+## Appendix - Array
 
+An array is data stored in more than two dimensions 
+
+### Type the following code to create an array
+```{r, include = T, results = "hide"}
+# Create an array in a vector. The following vector creates two matrices 
+# each with 3 rows and 4 colums. X is the data frame  
+a1 <- array(x, dim= c(3,4,2))
+
+```
 ## Appendix - Advanced types of data - Factors
 \framesubtitle{Factors}
 
