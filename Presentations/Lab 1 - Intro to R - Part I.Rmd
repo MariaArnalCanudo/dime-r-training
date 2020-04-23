@@ -760,7 +760,7 @@ https://www.r-graph-gallery.com/
 
 * R Graphics Cookbook - Winston Chang
 
-* R for Data Science - Hadley Wickham and Garrett Grolemund
+* R for Data Science - Hadley Wickham and Garrett Grolemund: https://r4ds.had.co.nz/
 
 ----
 
