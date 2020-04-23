@@ -173,6 +173,7 @@ Some useful functions:
 * **``names()``:** returns the variable names of a data set
 * **``str()``:** general information on an R object
 * **``summary()``:** summary information about the variables in a data frame
+* **``skim()``:** detailed information aboutthe variables in a data frame (skimr package)
 * **``head()``:** shows the first few observations in the dataset
 * **``tail()``:** shows the last few observations in the dataset
 
